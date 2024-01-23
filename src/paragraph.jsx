@@ -1,4 +1,4 @@
-function divParagraph(){
+function    DivParagraph(){
 
     return(
         <>
@@ -9,4 +9,4 @@ function divParagraph(){
     )
 }
 
-export default divParagraph;
+export default DivParagraph;
